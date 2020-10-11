@@ -47,4 +47,5 @@ dependencies {
     implementation (name:'oss-android-sdk-2.9.2', ext:'aar')
     implementation (name:'SecurityGuardSDK-external-release-5.4.193-preInstall', ext:'aar')
     implementation (name:'SecurityBodySDK-external-release-5.4.112-preInstall', ext:'aar')
+    implementation 'com.squareup.okhttp3:okhttp:4.0.0'
 }
